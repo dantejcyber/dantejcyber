@@ -17,7 +17,7 @@
 [<img align="left" alt="dante-jennings | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-
+[youtube]: https://youtube.com/DanteJennings
 [linkedin]: https://linkedin.com/in/dante-jennings
 
 <!--
