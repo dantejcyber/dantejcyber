@@ -24,7 +24,7 @@ CISSP loading... </h3>
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on AWS projects and learning Python
 - 🌱 I’m currently learning more about NIST 800-53 and GRC
