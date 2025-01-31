@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - Active Directory Home Lab([https://github.com/joshmadakor1/Algorithms-Practice)]
-
+ 
 <h2>Certifications<h/2>
   
 <h2>📺 Popular YouTube Videos</h2>
@@ -20,8 +19,7 @@
 [youtube]: https://youtube.com/@GoldWebz
 [linkedin]: https://linkedin.com/in/dante-jennings
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
