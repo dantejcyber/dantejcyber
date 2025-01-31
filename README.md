@@ -1,13 +1,13 @@
 <h1>Hi, I'm Dante! <br/><a href="https://github.com/dantejcyber">Programmer</a>, <a href="https://www.linkedin.com/in/dante-jennings">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
+https://github.com/dantejcyber/AWS-Security-Implememntation
  
 <h2>Certifications<h/2>
   
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Tutorial Active Directory Home Lab]
+
 
 
 <h2> 🤳 Connect with me:</h2>
