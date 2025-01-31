@@ -3,9 +3,9 @@
 https://github.com/dantejcyber/AWS-Security-Implememntation
  
 <h2>Certifications<h/2> <br/>
-<h3>CompTIA Security+
-Cloud Security Alliance CCSK
-AWS Solution architect loading...
+<h3>CompTIA Security+ <br/>
+Cloud Security Alliance CCSK<br/>
+AWS Solution Architect loading...<br/>
 CISSP loading... </h3>
   
 <h2>📺 Popular YouTube Videos</h2>
