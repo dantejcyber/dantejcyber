@@ -2,11 +2,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 https://github.com/dantejcyber/AWS-Security-Implememntation
  
-<h2>Certifications<h/2>
-CompTIA Security+
+<h2>Certifications<h/2> <br/>
+<h3>CompTIA Security+
 Cloud Security Alliance CCSK
 AWS Solution architect loading...
-CISSP loading...
+CISSP loading... </h3>
   
 <h2>📺 Popular YouTube Videos</h2>
 
