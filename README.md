@@ -1,5 +1,4 @@
-<h1>Hi, I'm Dante! <br/><a href="https://github.com/dantejcyber">Programmer</a>, <a href="https://www.linkedin.com/in/dante-jennings">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
-
+<h1>Hi, I'm Dante! <br/><a href="https://github.com/dantejcyber">Cloud Enthusiast</a>, <a href="https://www.linkedin.com/in/dante-jennings">Cybersecurity Professional</a>, 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 https://github.com/dantejcyber/AWS-Security-Implememntation
  
